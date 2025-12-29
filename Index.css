@@ -20,11 +20,13 @@ header {
 
 .Titulo{
 
-    color: red;
+    color: black;
     text-align: center;
 }
-.subTitulo{
-
-    color: blue;
-    text-align: left;
+.subTitulo {
+    color: gray;
+    border: 2px solid gray;           
+    padding: 10px;                 
+    margin: 20px 0;                    
+    text-align: left;              
 }
