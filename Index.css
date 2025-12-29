@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+
+/* Estilos generales */
+body {
+    font-family: 'Nunito', sans-serif !important;
+   
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;              
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    padding: 20px;                   
+    background-color: #f0f0f0;     
+    border-radius: 8px;              
+}
+
+
+.Titulo{
+
+    color: rgb(2, 2, 30);
+    text-align: center;
+}
+.subTitulo{
+
+    color: blue;
+    text-align: left;
+}
