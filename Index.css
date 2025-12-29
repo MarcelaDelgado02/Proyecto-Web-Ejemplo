@@ -24,6 +24,9 @@ header {
 }
 .subTitulo{
 
-    color: blue;
+    border: 2px solid gray; 
+    padding: 10px;      
+    margin: 20px 0;
+    color: gray;
     text-align: left;
 }
